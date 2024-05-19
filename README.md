@@ -27,6 +27,9 @@ We began with the basic implementation of the UNet model, a pivotal architecture
 **Reference:**
 - [UNet: Convolutional Networks for Biomedical Image Segmentation]([https://arxiv.org/abs/1505.04597](https://arxiv.org/pdf/1505.04597))
 
+- ![WhatsApp Image 2024-05-19 at 22 56 15](https://github.com/bhanushri12/Mobile_Diffusion_P05B/assets/161404554/7172aefd-3d12-4398-9983-aadc7bf15169)
+
+
 ---
 
 ## Transformer Implementation
@@ -39,6 +42,9 @@ Next, we moved on to implementing the Transformer model from scratch. Transforme
 
 **Reference:**
 - [Attention is All You Need]([https://arxiv.org/abs/1706.03762](https://arxiv.org/pdf/1706.03762))
+
+ ![WhatsApp Image 2024-05-19 at 22 56 45](https://github.com/bhanushri12/Mobile_Diffusion_P05B/assets/161404554/df2084b6-f9b6-40e9-844e-c3571ee1e297)
+
 
 ---
 
@@ -79,7 +85,10 @@ Finally, we optimized the stable diffusion model to make it suitable for mobile 
 **Optimized Stable Diffusion Code:**
 - [Stable Diffusion Code on GitHub]([https://github.com/CompVis/stable-diffusion](https://github.com/hkproj/pytorch-stable-diffusion/blob/main/sd/diffusion.py))
 
----
+![WhatsApp Image 2024-05-19 at 22 57 08](https://github.com/bhanushri12/Mobile_Diffusion_P05B/assets/161404554/9d439701-64c0-4df9-9f26-532b25e916f4)
+
+
+
 
 ## Conclusion
 
